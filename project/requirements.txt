@@ -1,0 +1,18 @@
+# Core data stack
+numpy
+pandas
+matplotlib
+openpyxl        # required by pandas to read .xlsx
+
+# Classical time-series models (VAR/VECM, ARIMA)
+statsmodels
+scikit-learn
+
+# Neural nets
+torch           # FFNN, TDNN
+tensorflow      # LSTM
+
+# Notebook execution
+jupyter
+ipykernel
+papermill       # drives run_pipeline.py
