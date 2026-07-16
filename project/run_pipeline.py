@@ -32,7 +32,7 @@ PIPELINE = [
     "03_ffnn.ipynb",
     "04_tdnn.ipynb",
     "05_lstm.ipynb",
-    "06_model_comparison.ipynb",
+    "09_model_comparison.ipynb",
 ]
 
 
